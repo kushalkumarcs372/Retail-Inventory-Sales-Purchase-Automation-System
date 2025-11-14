@@ -10,6 +10,9 @@
 
 ---
 
+## GitHub Repository
+https://github.com/kushalkumarcs372/Retail-Inventory-Sales-Purchase-Automation-System
+
 ## 📌 Project Overview
 This project implements a complete **Retail Inventory, Sales & Purchase Automation System** designed to automate major operations of a retail store. It supports customer management, product cataloging, inventory updates, sales processing, billing, supplier management, and employee operations.  
 All core business logic is implemented in **MySQL** using *triggers, procedures, views,* and *functions*, while the backend uses **Node.js + Express**, and the frontend uses **React.js**.
